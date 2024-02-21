@@ -6,6 +6,8 @@ Password_challenge
 Description
 
 This project is a simple password guess challenge written in Python. It's designed to prompt the user to enter a password that has been encoded. The goal is to decode and enter the correct password to receive a congratulatory message.
+
+
 How to Run
 
 To run this script, you will need Python installed on your computer. If you do not have Python installed, you can download it from python.org.
